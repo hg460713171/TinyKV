@@ -3,4 +3,4 @@
 
 
 此项目通过java实现raft协议 模拟Tidb底层的TiKV组件，实现分布式数据的最终一致性
-生产上使用推荐sofa-raft
+生产上如果需要自研分布式中间件 推荐使用sofa-raft
